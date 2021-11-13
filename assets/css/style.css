@@ -4670,7 +4670,7 @@ textarea {
 	text-align: center;
 	background-color: transparent;
 	font-size: 16px;
-	font-font-weight: 600;
+	font-weight: 600;
 }
 
 .product-details-wrapper .product-summary-area .product-summery-wrapper .product-cart-form form .template-btn {
@@ -5717,4 +5717,8 @@ textarea {
 /*# sourceMappingURL=style.css.map */
 .leftAlign{
 	text-align: left;
+}
+
+.centerAlign{
+	text-align: center;
 }
